@@ -1,5 +1,5 @@
 SELECT c.name,c.address
-FROM companies c left join records r
+FROM companies c inner join records r
 on c.id=r.company_id
 GROUP BY c.id
 HAVING COUNT(*) = (SELECT COUNT(*) 
