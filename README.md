@@ -4,6 +4,6 @@
 
 
 + Day 5 :
-  - (https://www.lintcode.com/problem/1919/ "Members Whose Scores Exceed the Group leader" )
+  - Q 1 - [Members Whose Scores Exceed the Group leader] (https://www.lintcode.com/problem/1919/)
 
 
