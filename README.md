@@ -37,9 +37,9 @@
 + Day 7 :
   - Q 1 - [Find Right Triangle](https://www.lintcode.com/problem/1941/)
   - Q 2 - [Bike Sharing](https://www.lintcode.com/problem/1944/)
-  - Q 3 - []()
-  - Q 4 - []()
-  - Q 5 - []()
+  - Q 3 - [Check the average age of teachers at the end of the specified mailbox](https://www.lintcode.com/problem/2034/)
+  - Q 4 - [Calculate the number of years difference between the start date and the current date of all courses in the course schedule](https://www.lintcode.com/problem/2035/)
+  - Q 5 - [Calculate the number of months difference between the start date and the current date of all courses in the schedule](https://www.lintcode.com/problem/2036/)
 + Day 8 :
   - Q 1 - []()
   - Q 2 - []()
