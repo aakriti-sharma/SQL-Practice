@@ -7,3 +7,4 @@
 - Inline view is when SELECT statement occurs in FROM clause.
 - When the tables are locked, use `unlock tables` to access them again.
 - The command `rollback;` can be used to undo the previous action.
+- `IFNULL()` function lets you return an alternative value if an expression is NULL
