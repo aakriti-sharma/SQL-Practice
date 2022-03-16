@@ -4,3 +4,4 @@
 - LIMIT a OFFSET b can be used to extract a values after b number of values in a column.
 - If( col = val, val1, val2) is the SQL version of a ternary operator, where if the condition valuates to true first value (val1) is assigned otherwise val2.
 - `show full tables` lists all the views and tables in the database
+- Inline view is when SELECT statement occurs in FROM clause
